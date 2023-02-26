@@ -1,5 +1,9 @@
 # Frontend Mentor - FAQ accordion card
 
+Please check the below link to visit the LIVE PAGE of the Project:
+
+[GitHub Live Page - FAQ accordion card - Sree Mouli Chinta](https://sreemoulichinta.github.io/frontendMentor-faqAccordion/)
+
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
